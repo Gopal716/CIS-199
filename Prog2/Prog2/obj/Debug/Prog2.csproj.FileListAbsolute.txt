@@ -1,0 +1,28 @@
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\GP.DESKTOP-IDCBSNK\Documents\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\obj\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Portfolio\CIS 199\Prog2\Prog2\obj\Debug\Prog2.pdb
