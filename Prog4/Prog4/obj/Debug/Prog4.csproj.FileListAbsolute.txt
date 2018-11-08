@@ -1,0 +1,9 @@
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\bin\Debug\Prog4.exe.config
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\bin\Debug\Prog4.exe
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\bin\Debug\Prog4.pdb
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\obj\Debug\Prog4.csprojResolveAssemblyReference.cache
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\obj\Debug\Prog4.Properties.Resources.resources
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\obj\Debug\Prog4.csproj.GenerateResource.Cache
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\obj\Debug\Prog4.exe
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\obj\Debug\Prog4.pdb
+C:\Users\GP.DESKTOP-IDCBSNK\Desktop\Prog4\Prog4\obj\Debug\Prog4.prog4Form.resources
